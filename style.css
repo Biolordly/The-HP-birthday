@@ -55,29 +55,28 @@
     .image-l {
       float: left;
       margin-right: 20px;
-      max-width: 200px;
+      max-width: 300px;
       height: auto;
     }
   
     .image-r {
       float: right;
       margin-left: 20px;
-      max-width: 200px;
+      max-width: 300px;
       height: auto;
     }
 
     .video-l {
       float: left;
       margin-right: 20px;
-      max-width: 200px;
+      max-width: 400px;
       height: auto;
-      flex-basis: 50%;
     }
   
     .video-r {
       float: right;
       margin-left: 20px;
-      max-width: 200px;
+      max-width: 400px;
       height: auto;
     }
 
@@ -117,5 +116,5 @@
     }
 
     #zag2 {
-      text-align: justify;
+      text-align: center;
     }
