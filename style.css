@@ -3,7 +3,7 @@
 
   body {
       font-family: Arial, sans-serif;
-      background-image: src=("pictures/bgi");
+      background-image: url("pictures/bgi.jpg");
     }
     /* Set newspaper header style */
 
