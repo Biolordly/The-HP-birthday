@@ -55,28 +55,28 @@
     .image-l {
       float: left;
       margin-right: 10px;
-      max-width: 170px;
+      max-width: 200px;
       height: auto;
     }
   
     .image-r {
       float: right;
       margin-right: 10px;
-      max-width: 170px;
+      max-width: 200px;
       height: auto;
     }
 
     .video-l {
       float: left;
       margin-right: 10px;
-      max-width: 170px;
+      max-width: 200px;
       height: auto;
     }
   
     .video-r {
       float: right;
       margin-left: 10px;
-      max-width: 170px;
+      max-width: 200px;
       height: auto;
     }
 
