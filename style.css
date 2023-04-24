@@ -69,7 +69,8 @@
     .video-l {
       float: left;
       margin-right: 20px;
-
+      width: 300px;
+      height: auto;
     }
   
     .video-r {
