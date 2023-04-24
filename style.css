@@ -54,14 +54,14 @@
   
     .image-l {
       float: left;
-      margin-right: 10px;
+      margin-right: 20px;
       max-width: 200px;
       height: auto;
     }
   
     .image-r {
       float: right;
-      margin-right: 10px;
+      margin-left: 20px;
       max-width: 200px;
       height: auto;
     }
@@ -69,17 +69,23 @@
     .video-l {
       float: left;
       margin-right: 20px;
-      width: 450px;
-
+      max-width: 200px;
+      height: auto;
+      flex-basis: 50%;
     }
   
     .video-r {
       float: right;
-      margin-left: 10px;
+      margin-left: 20px;
       max-width: 200px;
       height: auto;
     }
 
+    .video-c {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
     .article h2 {
       font-size: 24px;
       font-weight: bold;
@@ -93,17 +99,23 @@
       font-weight: bold;
       margin-top: 0;
       font-family: 'Marck Script', cursive;
-      text-align: center;
+      text-align: justify;
+      flex-basis: 50%;
     }
     .article p {
       font-size: 16px;
       line-height: 1.4;
       text-align: justify;
       font-family: 'Marck Script', cursive;
+      flex-basis: 50%;
     }
 
     .Sub {
       font-size: 40px;
       margin-top: 0px;
       margin-bottom: 0px;
+    }
+
+    #zag2 {
+      text-align: justify;
     }
