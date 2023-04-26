@@ -70,7 +70,7 @@
 
     .video-l {
       float: left;
-      margin-right: 20px;
+      margin-right: 10px;
       max-width: 500px;
       height: auto;
       width: 50%;
@@ -78,7 +78,7 @@
   
     .video-r {
       float: right;
-      margin-left: 20px;
+      margin-left: 10px;
       max-width: 500px;
       height: auto;
       width: 50%;
